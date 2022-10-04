@@ -5,3 +5,4 @@ matplotlib
 Tensorflow
 Pytorch
 ANN
+CNN
