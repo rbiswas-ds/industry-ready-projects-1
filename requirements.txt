@@ -6,3 +6,4 @@ Tensorflow
 Pytorch
 ANN
 CNN
+RNN
