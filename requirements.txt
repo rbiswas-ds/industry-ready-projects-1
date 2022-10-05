@@ -7,3 +7,4 @@ Pytorch
 ANN
 CNN
 RNN
+NLP
